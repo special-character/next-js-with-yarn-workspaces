@@ -1,0 +1,11 @@
+{
+  "name": "@withyarn/web-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@withyarn/foo": "*",
+    "@withyarn/bar": "*",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "license": "ISC"
+}
